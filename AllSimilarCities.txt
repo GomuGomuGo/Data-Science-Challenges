@@ -1,0 +1,90 @@
+City_Name	Similar_City
+Anaheim CA	Santa Ana CA
+Arlington TX	Fort Worth TX
+Atlanta GA	Birmingham AL
+Austin TX	San Antonio TX
+Bakersfield CA	Fresno CA
+Baltimore MD	WASHINGTON DC
+Birmingham AL	Atlanta GA
+Boston MA	Montreal QC
+Buffalo NY	Saint Catharines-Niagara ON
+Calgary AB	Seattle WA
+Chandler AZ	Mesa AZ
+Charlotte NC	Raleigh NC
+Chesapeake VA	Norfolk VA
+Chicago IL	Milwaukee WI
+Cincinnati OH	Louisville KY
+Cleveland OH	Toledo OH
+Columbus OH	Cincinnati OH
+Corpus Christi TX	San Antonio TX
+Dallas TX	Plano TX
+Detroit MI	Windsor ON
+Edmonton AB	Victoria BC
+Fort Wayne IN	Toledo OH
+Fort Worth TX	Arlington TX
+Fresno CA	Bakersfield CA
+Glendale AZ	Phoenix AZ
+Greensboro NC	Charlotte NC
+Halifax NS	Quebec QC
+Hamilton ON	Saint Catharines-Niagara ON
+Hialeah FL	Miami FL
+Houston TX	Austin TX
+Indianapolis IN	Cincinnati OH
+Jacksonville FL	Tampa FL
+Jersey City NJ	Newark NJ
+Kansas City MO	Lincoln NE
+Kitchener ON	London ON
+Lexington KY	Louisville KY
+Lincoln NE	Omaha NE
+London ON	Kitchener ON
+Long Beach CA	Santa Ana CA
+Los Angeles CA	Long Beach CA
+Louisville KY	Lexington KY
+Madison WI	Milwaukee WI
+Memphis TN	Nashville TN
+Mesa AZ	Chandler AZ
+Miami FL	Hialeah FL
+Milwaukee WI	Madison WI
+Minneapolis MN	Saint Paul MN
+Montreal QC	OTTAWA ON
+Nashville TN	Memphis TN
+New Orleans LA	Birmingham AL
+New York NY	Jersey City NJ
+Newark NJ	Jersey City NJ
+Norfolk VA	Chesapeake VA
+Oakland CA	San Francisco CA
+Oklahoma City OK	Tulsa OK
+Omaha NE	Lincoln NE
+Oshawa ON	Saint Catharines-Niagara ON
+OTTAWA ON	Montreal QC
+Philadelphia PA	Newark NJ
+Phoenix AZ	Glendale AZ
+Pittsburgh PA	Cleveland OH
+Plano TX	Fort Worth TX
+Portland OR	Seattle WA
+Quebec QC	Halifax NS
+Raleigh NC	Charlotte NC
+Riverside CA	Anaheim CA
+Sacramento CA	Stockton CA
+Saint Catharines-Niagara ON	Buffalo NY
+Saint Paul MN	Minneapolis MN
+Saint Petersburg FL	Tampa FL
+San Antonio TX	Austin TX
+San Diego CA	Santa Ana CA
+San Francisco CA	Oakland CA
+San Jose CA	Oakland CA
+Santa Ana CA	Anaheim CA
+Scottsdale AZ	Mesa AZ
+Seattle WA	Victoria BC
+Stockton CA	Sacramento CA
+Tampa FL	Saint Petersburg FL
+Toledo OH	Windsor ON
+Toronto ON	Saint Catharines-Niagara ON
+Tucson AZ	Mesa AZ
+Tulsa OK	Oklahoma City OK
+Vancouver BC	Victoria BC
+Victoria BC	Seattle WA
+Virginia Beach VA	Norfolk VA
+WASHINGTON DC	Baltimore MD
+Wichita KS	Oklahoma City OK
+Windsor ON	Toledo OH
