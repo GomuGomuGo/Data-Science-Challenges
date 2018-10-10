@@ -1,6 +1,3 @@
-### Set Working Directory
-setwd("C:/Users/Admin.PG_Chassis_1/Desktop/NewBox/Box Sync/AWS Aus/research_scientist_problems/data")
-
 ## Load Required Packages
 library("jsonlite")        # Parsing jSon Files
 library("splitstackshape") # String Parsing
