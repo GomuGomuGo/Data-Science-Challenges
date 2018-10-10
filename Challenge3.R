@@ -1,15 +1,8 @@
 
 ########################################################################
-#           Amazon Challenge for Research Scientist                    #
+#                                                                      #
 #           Solved by Suri Yaddanapudi on June 20th 2018               #  
 ########################################################################
-
-
-
-### Set Working Directory
-setwd("C:/Users/Admin.PG_Chassis_1/Desktop/NewBox/Box Sync/AWS Aus/research_scientist_problems/data")
-#setwd("C:/Users/YADML9/Box Sync/AWS Aus/research_scientist_problems/data")
-
 ## Load Required Packages
 library("jsonlite")        # Parsing jSon Files
 library("splitstackshape") # String Parsing
